@@ -10,6 +10,6 @@ Enjoy! :)
 
 Cansu
 
-![ss_fish_animation]()
+![ss_fish_animation](./fish1.png)
 
 
