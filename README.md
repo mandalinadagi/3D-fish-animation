@@ -10,6 +10,6 @@ Enjoy! :)
 
 Cansu
 
-![ss_fish_animation](./fish1.PNG)
+![ss_fish_animation](https://github.com/mandalinadagi/3D_fish_animation/blob/master/fish1.PNG)
 
 
