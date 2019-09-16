@@ -8,7 +8,7 @@
 
 Enjoy! :)
 
-Cansu
+mandalinadagi
 
 ![ss_fish_animation](https://github.com/mandalinadagi/3D_fish_animation/blob/master/fish1.PNG)
 
